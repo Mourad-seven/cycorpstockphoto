@@ -2,7 +2,7 @@
 
 define('USER','root');
 define('PASSW','root');
-define('DSN','mysql:host=localhost;dbname=erictestjuin;');
+define('DSN','mysql:host=localhost;dbname=cycorpstockphoto;');
 
 $bdd = new PDO(DSN, USER, PASSW);
 $bdd->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);

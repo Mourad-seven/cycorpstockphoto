@@ -1,7 +1,7 @@
 <?php
 
 // constant contenant la racine du site
-define("CHEMIN_RACINE", "http://localhost/eric_test_juin/");
+define("CHEMIN_RACINE", "http://localhost/cycorpstockphoto/");
 
 // nom des dossiers de destination des images (chemin relatif)
 $dossier_ori = "images/originales/"; // dossier de l'image originale
